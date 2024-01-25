@@ -10,7 +10,7 @@ function verificaSeOChutePossuiUmValorValido(chute){
                 <h3>Pressione o botão para jogar novamente</h3>
                 <button id="restart" class="btn-jogar" >Jogar novamente</button>
                 `
-                document.body.style.backgroundColor = "black";
+                document.body.style.backgroundColor = "#041C32";
         } else {
 
             elementoChute.innerHTML += '<div>Valor Inválido</div>';
